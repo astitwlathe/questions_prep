@@ -5,4 +5,5 @@ This repo keeps all the works and preps for interviews, subject matter studies i
 * [Books](/ml_study/books/review.md)
 * [Posts](/ml_study/posts.md)
 * [ml study](/ml_study/README.md)
+* [Installation](/ml_study/installations/install.md)
 
