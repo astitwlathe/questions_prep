@@ -3,7 +3,7 @@
 * [Posts](/posts.md)
 * [ml study](/ml_study) -->
 ## Notes
-* ML Refined [github repo](https://github.com/jermwatt/control-notes) (Git Page)[https://jermwatt.github.io/machine_learning_refined/notes/6_Linear_twoclass_classification/6_4_Perceptron.html]
+* ML Refined [github repo](https://github.com/jermwatt/control-notes), [Git Page](https://jermwatt.github.io/machine_learning_refined/notes/6_Linear_twoclass_classification/6_4_Perceptron.html)
 * [Learning from Data Notes](https://github.com/darshanime/notes/blob/master/learning_from_data.org)
 * [6.867 MIT Machine Learning notes](/ml_study/books/6_867%20MIT%20Machine%20Learning%20notes.pdf)
 
