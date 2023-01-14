@@ -10,3 +10,4 @@
 ## Books 
 * [ML Refined CUP](/ml_study/books/Machine%20Learning%20Refined%20-%20Foundations%2C%20Algorithms%2C%20and%20Applications%20CUP%20(2020)%20%5BBorhani%2C%20Reza_%20Katsaggelos%2C%20Aggelos%20Konstantinos_%20Watt%2C%20Jeremy%5D.pdf)
 * [Stastical Machine Learning, Yiqiao YIN Columbia University](/ml_study/books/statistical_machine_learning%20%5BYiqiao%20Yin%5D.pdf)
+* [Data Science Interview Questions 30 days of Interview Preparation](/ml_study/books/Data%20Science%20Interview%20Questions%20(30%20days%20of%20Interview%20Preparation).pdf)
