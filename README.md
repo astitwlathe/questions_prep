@@ -11,6 +11,7 @@ This repo keeps all the works and preps for interviews, subject matter studies i
 * Things I learnt in my 5 years as a Software developer | How to grow in a product based company   ([Link](https://www.youtube.com/watch?v=h3jerGCbVM8))
 * Books to read for self improvement [Link](https://www.linkedin.com/posts/vineet-chirania_startup-innovation-sales-activity-7017810660335988736-16d3)
 * Open Source Software Development, Linux and Git Specialization [Link](https://www.coursera.org/specializations/oss-development-linux-git)
+* Resume Tips [Link](https://www.linkedin.com/posts/alexandersmith92_my-resume-has-landed-me-interviews-at-facebook-activity-7020153888146153472-lSV1)
 
 
 ## ChatGPT 
