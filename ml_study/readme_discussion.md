@@ -5,7 +5,7 @@
 
 
 
-`<a name="1">`
+<a name="1">
 
 * __Difference between LLMs__
 
@@ -20,4 +20,4 @@ There are truck loads of studies and articles on how the stated innovations redu
 
 For example, you will see how Alexa TM (Teacher Model) with a 20B parameter outperforms GPT3 which is a 175B model.
 
-`</a>`
+</a>
