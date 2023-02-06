@@ -3,6 +3,7 @@
 * [Interview Prep](/Miscellaneous/interview_prep/)
 * [ML Interview Prep](/ml_study/readme_ml_study.md)
 * [ML Posts.md](/ml_study/posts.md)
+* [ROS](/Miscellaneous/ROS/)
 
 # Miscellaneous Links
 
@@ -46,6 +47,7 @@
 * Indians working on H1B — how do you manage money back home? [Link](https://www.teamblind.com/post/Indians-working-on-H1B-—-how-do-you-manage-money-back-home-rWwC0vab)
 * Take Warren Buffett's Advice: Buy Stocks With These 3 Attributes [Link](https://www.fool.com/investing/2023/01/15/take-warren-buffetts-advice-buy-stocks-with-these/)
 * Financial news and stock info [Link](www.marketbeat.com)
+* California income tax [Link](https://www.teamblind.com/post/California-income-tax-kM53P7Qr)
 
 ## Posts
 
@@ -54,6 +56,7 @@
 * How I Would Land a Mentor (If I was Looking) [Link](https://www.linkedin.com/posts/adityaariewijaya_mentorship-tech-opportunity-activity-7016275979736166400-tIIe?utm_source=share&utm_medium=member_desktop)
 * Networking - PM [Link](https://www.linkedin.com/posts/diegogranadosh_productmanagement-activity-7018967900325638144-Ls3t)
 * 9 Ted Talks in 9 days that will change your life [Link](https://www.linkedin.com/posts/mattgray1_9-ted-talks-in-9-days-that-will-change-your-ugcPost-7020735474486927360-GZIj)
+* Case studies for MBSs [Link](https://www.linkedin.com/posts/pavan-sathiraju_consulting-interviews-are-tough-because-1-activity-7021803377558781952-pc2Y)
 * https://www.linkedin.com/posts/nubcoder_html-cheatsheet-ugcPost-7019986472078323713-sJNp/
 * https://www.linkedin.com/posts/dkjapan_chatgpt-ai-resources-activity-7020171595377774592-xeBc/
 * https://www.linkedin.com/feed/update/urn:li:activity:7020777860177047552/
