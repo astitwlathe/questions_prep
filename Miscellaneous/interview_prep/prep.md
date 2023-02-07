@@ -7,7 +7,7 @@
 
 ## Distributed systems
 
-* Distributes Systems Learning[file](/distributed_systems/README_distrib.md)
+* Distributed Systems Learning[file](/distributed_systems/README_distrib.md)
 * System Design Interview Tips? [Link](https://www.teamblind.com/post/System-Design-Interview-Tips-TjSWMiXj)
 
 ## Coding
@@ -23,6 +23,10 @@
 * google rejection L6 on system design [Link](https://www.teamblind.com/post/google-rejection-L6-on-system-design-uYLMNadb)
 * 10 repositories from GitHub that will transform the way you approach technical interviews (including what to build) [Link](https://www.linkedin.com/posts/ansh-_javascript-faang-interview-activity-7027861618067681280-Nhcs/) 
 
+## Open Source
+* Open Assistant initiative to build a chat-based assistant [Link](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-community-help-activity-7027958406858592256-Q-F9/)
+
 ## Miscellaneous
 * What is the difference between 10 lpa and 1 crore salaried SDE(frontend) having 6-7 years of experience? [Link](https://www.linkedin.com/posts/aman-bansal-5b3154171_salary-frontend-startup-activity-7028022277279485952-m8Fh/)
 * A compiled list for Business-motivated problems for DS Practitioner  [Link](https://www.linkedin.com/posts/mungoliabhishek81_datascience-machinelearning-statistics-activity-7027986334472429570-o89h/)
+* The Distributed Computing Manifesto [Link](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)

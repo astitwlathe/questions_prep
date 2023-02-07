@@ -22,18 +22,22 @@
 * [The best startup pitch deck ever built](/Miscellaneous/files/Best%20startup%20pitch%20deck%20ever%20built.pdf)
 * Best template to cold email VCs [Link](https://www.linkedin.com/posts/stephanenasser_startup-fundraising-venturecapital-activity-7019681864248401921-TPS7)
 
-## Productivity
+## Productivity and life
 
 * [43 AI-Powered Tools to (Hugely) Boost Productivity](/Miscellaneous/files/43%20AI-Powered%20Tools%20to%20(Hugely)%20Boost%20Productivity.pdf)
 * [Life hacks I know at 33 I wish I knew at 21](/Miscellaneous/files/Life%20hacks%20I%20know%20at%2033%20I%20wish%20I%20knew%20at%2021.pdf)
 * The five pillars of Ikigai [Link](/Miscellaneous/files/The%20five%20pillars%20of%20Ikigai.pdf)
 * [Most powerful life hacks I have discovered](/Miscellaneous/files/most%20powerful%20life%20hacks.pdf)
+* Open Assistant initiative to build a chat-based assistant [Link](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-community-help-activity-7027958406858592256-Q-F9/)
+* Diagram as Code in Python [Link](https://diagrams.mingrammer.com)
+
 
 ## Career
 
 * Referral site [Link](https://refermarket.com/)
 * I've built 2 of my 5 income streams past 7-figures. [Link](https://www.linkedin.com/posts/justinwelsh_ive-built-2-of-my-5-income-streams-past-activity-7028350300335824896-AAV6/)
 * The difference between amateurs and professionals [Link](https://www.linkedin.com/posts/sahilbloom_amateurs-vs-professionals-activity-7028363239180640256-2jjb/) [File](/Miscellaneous/files/amateur_professional.pdf)
+* Boss vs leader [File](/Miscellaneous/files/boss_leader.pdf)
 
 ## Visa and Stay
 
@@ -49,7 +53,6 @@
 * 7 ways to become an entrepreneur as an immigrant  [Link](https://www.linkedin.com/posts/vnegandhi_7-ways-to-become-an-entrepreneur-as-an-immigrant-ugcPost-7028378932034891776-KZ6S/)
 * How to Start a Company on an H1B Visa: Top Tips for Immigrant Startup Founders [Link](https://medium.com/unshackled-ventures/how-to-start-a-company-on-an-h1b-visa-top-tips-for-immigrant-startup-founders-27bd9244de07)
 
-
 ## Finance
 
 * Three-fund portfolio [Link](https://www.bogleheads.org/wiki/Three-fund_portfolio)
@@ -58,8 +61,8 @@
 * Financial news and stock info [Link](www.marketbeat.com)
 * California income tax [Link](https://www.teamblind.com/post/California-income-tax-kM53P7Qr)
 
-
 ## Interview Q&A
+
 * ETL, datalake, database comparison [Link](https://www.linkedin.com/posts/wesleyjchambers_datascience-machinelearning-analytics-activity-7028316856625065984-kvoD/?utm_source=share&utm_medium=member_desktop)
 
 ## Posts

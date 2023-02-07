@@ -32,6 +32,22 @@ For example, you will see how Alexa TM (Teacher Model) with a 20B parameter outp
 
 ---
 
+[LLMs ain't what you think they are](https://www.linkedin.com/posts/activity-7027970160925847552-wydr)
+
+♠ ChatGPT is dumb for computation. 
+♥ LLMs suck at even the basic arithmetic and logic.
+♦ Scale is not the answer, and, even if it was, it would be a wasteful one.
+♣ Computing increasingly more statistics over the whole internet might give you an awesome search assistant or a quirky chat pal (in a positive way 😜 ), but that's about it, regardless how you package it.
+
+A few quotes to support the claims:
+♠ https://lnkd.in/d-q_wmjm - Language Models are Few-Shot Learners - GPT-3 can barely do 3-digit integer addition and subtraction and fails with more digits.
+♥ https://lnkd.in/dcTEtYaX Mathematical Capabilities of ChatGPT: "We conclude that contrary to many positive reports in the media (a potential case of selection bias), ChatGPT’s mathematical abilities are significantly below those of an average mathematics graduate student. Our results show that ChatGPT often understands the question but fails to provide correct solutions"
+♦ And finally, here is a single-neuron 2-parameter model in PyTorch that outperforms 175B-parameter GPT-3 in arbitrary addition (even with floating point numbers). https://lnkd.in/dgnHRf2K. A similar model with a change of just one parameter can do arbitrary subtraction.
+
+🤔 So why didn't one of those billions of neurons learn to do addition? (this rabbit-hole is rather a funny one, but in the meantime, let's stop feeding fuel to the hype) 
+
+---
+
 * __Elbow, BIC, etc. methods for finding clusters__[#](#q2) <span id="a2"></span>
 
 [Are you still using the "elbow method"?](https://towardsdatascience.com/are-you-still-using-the-elbow-method-5d271b3063bd)
@@ -88,7 +104,7 @@ Building models used to be the "exciting" part of data science.
 
 Nowadays, I usually consider that solved.
 
-What isn’t solved is the data:
+What isn't solved is the data:
 
 Take AutoML as an example.
 
@@ -109,14 +125,8 @@ What AutoML does not solve is the following:
 
 So what does this mean?
 
-If
- you're a 'data expert' in your organisation (hello, BI folks!), chances
- are you can challenge even seasoned data scientists by leveraging your
-data and domain expertise combined with very basic machine learning
-skills.
+If you're a 'data expert' in your organisation (hello, BI folks!), chances are you can challenge even seasoned data scientists by leveraging your data and domain expertise combined with very basic machine learning skills.
 
 This could easily boost your career.
 
-And you don't have to wait for anyone's permission to build your ML portfolio.
-
-It’s up to you.
+And you don't have to wait for anyone's permission to build your ML portfolio. It's up to you.

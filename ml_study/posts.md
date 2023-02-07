@@ -40,3 +40,4 @@
 * Basic Data Cleaning Guide [File](/ml_study/files/Basic%20Data%20Cleaning%20Guide.pdf)
 * Inferential Statistics: Techniques and Types of Calculation [Link](https://www.linkedin.com/feed/update/urn:li:activity:7026614397582090240/)
 * A Friendly Step-By-Step Guide To Supervised Machine Learning [Link](https://ai4bi.beehiiv.com/p/supervised-machine-learning-guide)
+* Power BI in Jupyter notebooks! [Link](https://www.linkedin.com/posts/mengyaowang11_datascience-python-powerbi-activity-7028339013463756801-cpU2/)
