@@ -17,7 +17,7 @@
 
 * __Difference between LLMs__[#](#q1) <span id="a1"></span>
 
-[LLMs, Microsoft partnership](https://www.linkedin.com/feed/update/urn:li:activity:7025864120314863616/)
+[LLMs, Microsoft partnership](https://www.linkedin.com/feed/update/urn:li:activity:7025864120314863616/)  
 As a preamble, the number of significant modifications you have to do in inits, pre-norm, reverse tokenization... Choices you have to make in numerical stability for casual vs non-causal vs ED... Model changes you have to make for FLM vs Prefix-LM vs Masked on the objective side..... Multi-task query modification, changes in adaptations, Sparsity, Parallelization... I can go on....
 
 Each LLMs has such vast innovations and they are not just parameter and data. They are in no way similar.
@@ -28,6 +28,7 @@ There are truck loads of studies and articles on how the stated innovations redu
 
 For example, you will see how Alexa TM (Teacher Model) with a 20B parameter outperforms GPT3 which is a 175B model.
 
+---
 
 * __Elbow, BIC, etc. methods for finding clusters__[#](#q2) <span id="a2"></span>
 
@@ -47,3 +48,4 @@ For example, in these 5 datasets, the elbow method guesses the true number of cl
 
 🐍 Find the fully reproducible Python code on my GitHub: https://lnkd.in/dxvAq6Jg
 
+---
