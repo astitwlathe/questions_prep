@@ -1,6 +1,7 @@
 ## Discussion Questions
 
 1. [Difference between LLMs](#a1) <span id="q1"></span>
+2. [Finding clusters K means — Are You Still Using the Elbow Method?](#a2) <span id="q2"></span> 
 
 <br />
 <br />
@@ -26,3 +27,7 @@ What are the effect of all the transformations vs the scale? Would the models be
 There are truck loads of studies and articles on how the stated innovations reduce the number of parameters needed to actually outperform larger models (As one example). With simple search you can find them on your own in Arxiv  ;)
 
 For example, you will see how Alexa TM (Teacher Model) with a 20B parameter outperforms GPT3 which is a 175B model.
+
+
+* __Elbow, BIC, etc. methods for finding clusters__[#](#q2) <span id="a2"></span>
+

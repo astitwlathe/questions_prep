@@ -27,10 +27,13 @@
 * [43 AI-Powered Tools to (Hugely) Boost Productivity](/Miscellaneous/files/43%20AI-Powered%20Tools%20to%20(Hugely)%20Boost%20Productivity.pdf)
 * [Life hacks I know at 33 I wish I knew at 21](/Miscellaneous/files/Life%20hacks%20I%20know%20at%2033%20I%20wish%20I%20knew%20at%2021.pdf)
 * The five pillars of Ikigai [Link](/Miscellaneous/files/The%20five%20pillars%20of%20Ikigai.pdf)
+* [Most powerful life hacks I have discovered](/Miscellaneous/files/most%20powerful%20life%20hacks.pdf)
 
 ## Career
 
 * Referral site [Link](https://refermarket.com/)
+* How to Start a Company on an H1B Visa: Top Tips for Immigrant Startup Founders [Link](https://medium.com/unshackled-ventures/how-to-start-a-company-on-an-h1b-visa-top-tips-for-immigrant-startup-founders-27bd9244de07)
+* I've built 2 of my 5 income streams past 7-figures. [Link](https://www.linkedin.com/posts/justinwelsh_ive-built-2-of-my-5-income-streams-past-activity-7028350300335824896-AAV6/)
 
 ## Visa and Stay
 
@@ -40,6 +43,10 @@
 * Layoff options - H1B [Link](https://www.linkedin.com/feed/update/urn:li:activity:7008490728293093378/)
 * Top 30 immigration attorneys in California - Chamber and Partners [Link](https://www.linkedin.com/posts/sameer-a-khedekar_immigration-immigrationlawyer-visas-activity-6664185058036981761-bYFH)
 * Immigration file Info [Link](https://www.linkedin.com/posts/tesspdouglas_immigration-foia-howtofileafoia-activity-7018716436026052608-laJT)
+* Open Avenues Stem Foundation [Link](https://www.linkedin.com/posts/bobwebber_open-avenues-global-talent-activity-7028377783206641664-MvmM/)
+* Travel Tips for F-1 Students on OPT or Planning a Change of Status to H-1B [Link](https://www.fragomen.com/insights/travel-tips-for-f-1-students-on-opt-or-planning-a-change-of-status-to-h-1b-5L9MGL8L6iHYxGG2pPMuQf.html)
+* PERM filing on time and H1B status [Link](https://webberimmigration.substack.com/p/protecting-your-h-1b-status-in-an)
+
 
 ## Finance
 
@@ -48,6 +55,10 @@
 * Take Warren Buffett's Advice: Buy Stocks With These 3 Attributes [Link](https://www.fool.com/investing/2023/01/15/take-warren-buffetts-advice-buy-stocks-with-these/)
 * Financial news and stock info [Link](www.marketbeat.com)
 * California income tax [Link](https://www.teamblind.com/post/California-income-tax-kM53P7Qr)
+
+
+## Interview Q&A
+* ETL, datalake, database comparison [Link](https://www.linkedin.com/posts/wesleyjchambers_datascience-machinelearning-analytics-activity-7028316856625065984-kvoD/?utm_source=share&utm_medium=member_desktop)
 
 ## Posts
 

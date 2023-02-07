@@ -2,8 +2,6 @@
 
 * [Readme Learning](/ml_study/readme_learning.md)
 
-
-
 ## Understanding
 
 * The Transformer Family  [Link][https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/]
@@ -15,7 +13,8 @@
 * Explainable AI: 10 Top Python Libraries for Demystifying Your Model's Decisions [Link](https://www.linkedin.com/feed/update/urn:li:activity:7018899691358535680/)
 * Balance package Pytorch for unbalanced data [Link](https://www.linkedin.com/posts/rami-krispin_python-datascience-data-activity-7020420991302471680-vi2f)
 * Pandas library fit [Link](https://www.linkedin.com/posts/sarah-floris_spark-activity-7020041871628402688-PW3n/)
-* HyperImpute - A library for NaNs and nulls, i.e., data imputation. [Link](https://github.com/vanderschaarlab/hyperimpute) 
+* HyperImpute - A library for NaNs and nulls, i.e., data imputation. [Link](https://github.com/vanderschaarlab/hyperimpute)
+* The State of Computer Vision at Hugging Face [Link](https://huggingface.co/blog/cv_state)
 
 ## Tips
 
@@ -32,6 +31,7 @@
 * [Readme Discussion](/ml_study/readme_discussion.md)
 
 ## ML Production
+
 * ML Production https://www.linkedin.com/feed/update/urn:li:activity:7026612088751976449/
 
 ## Posts - To glance
@@ -39,5 +39,3 @@
 * The Complete Guide to Building or Buying an ML Monitoring Solution [Link](/ml_study/files/WhyLabs-Build-vs-Buy-Guide.pdf)
 * Basic Data Cleaning Guide [File](/ml_study/files/Basic%20Data%20Cleaning%20Guide.pdf)
 * Inferential Statistics: Techniques and Types of Calculation [Link](https://www.linkedin.com/feed/update/urn:li:activity:7026614397582090240/)
-
-
