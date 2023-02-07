@@ -31,3 +31,19 @@ For example, you will see how Alexa TM (Teacher Model) with a 20B parameter outp
 
 * __Elbow, BIC, etc. methods for finding clusters__[#](#q2) <span id="a2"></span>
 
+[Are you still using the "elbow method"?](https://towardsdatascience.com/are-you-still-using-the-elbow-method-5d271b3063bd)
+
+Despite being so popular, the elbow method is pretty much the worst choice one can do when choosing the number of clusters for a dataset.
+
+So what should you use instead?
+
+In a recent paper, Erich Schubert shows that BIC (Bayesian Information Criterion) often outperforms other methods. So, I have taken the GoLang implementation of BIC made by Robert Hancock, translated it into Python, and tested it against the elbow method.
+
+The difference in performance between the two methods is huge!
+
+For example, in these 5 datasets, the elbow method guesses the true number of clusters only once, whereas the BIC score makes the right choice every time.
+
+☕ Read about the full experiment in my article on Towards Data Science: https://lnkd.in/dEpMjpBP
+
+🐍 Find the fully reproducible Python code on my GitHub: https://lnkd.in/dxvAq6Jg
+
