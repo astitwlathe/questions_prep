@@ -3,6 +3,7 @@
 1. [Difference between LLMs](#a1) <span id="q1"></span>
 2. [Finding clusters K means — Are You Still Using the Elbow Method?](#a2) <span id="q2"></span> 
 3. [ML model deployment](#a3) <span id="q3"></span>
+4. [ChatGPT era - reinvent yourself](#a4) <span id="q4"></span>
 
 
 <br />
@@ -130,3 +131,27 @@ If you're a 'data expert' in your organisation (hello, BI folks!), chances are y
 This could easily boost your career.
 
 And you don't have to wait for anyone's permission to build your ML portfolio. It's up to you.
+
+---
+
+* __ChatGPT era - reinvent yourself__[#](#q4) <span id="a4"></span>
+
+[Staying relevant in the (post-) ChatGPT era. A few pointers for students.](https://www.linkedin.com/posts/ramgopalrao_chatgpt-activity-7027890077586366466-uCSd) 
+
+I used to tell students that, if they aren't creative, Google will replace them. Now with #ChatGPT on the horizon, and having used it for a few months now, I tell them, even if you are creative, there is a possibility that ChatGPT may replace you.
+
+So what do you do to stay relevant?
+
+Here are my 5 pointers. You may add more.
+
+1. Continuous learning and upgradation of skills is very important. Half shelf life of knowledge is becoming shorter and shorter. Learn to use new tools like ChatGPT effectively to boost your personal and group's productivity. Just as you don't hire a driver who can't use Google Maps, no company will hire you in the future if you can't use these tools effectively. Always remember, technology can be a useful servant but a dangerous master.
+
+2. Innovation will thrive in the days to come. Innovation is going beyond creativity. Innovation is about generating value for your ideas. There is enough evidence to suggest that your connections and networks are more important for innovation than your knowledge and creativity. So network with people coming from different cultures, attitudes and backgrounds. Don't be a cocoon.
+
+3. Never be shallow and casual about anything you do. If your job is getting too routine, too comfortable and if you aren't learning anything new, believe me, the job isn't going to last long.
+
+4. Learn to be an effective team player. In a team, always remember, what matters the most is how good you are for the team than your own individual excellence.
+
+5. When you decide on any career path, don't fall for the salary packages or the FOMO factors. Decide with your heart, but let the mind takeover and do all the planning next. As a famous poet once said, let your desires be guided by heart, and the achievements by your mind. If you take all your decisions by your mind, you may never find your passion and may never do anything great. If you always let your heart to decide, you may not be able to deal with the repercussions. As the saying goes, when you find your passion, you will find your purpose. Heart-Mind coordination is essential for this.
+
+V Ramgopal Rao, IIT Delhi 
