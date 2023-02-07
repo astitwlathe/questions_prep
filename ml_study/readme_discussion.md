@@ -64,3 +64,20 @@ First, it's not about using a tool!
 ✔️ The model may have some bad code which can cost resources or unknown performance
 
 🚧 A/B testing to production timeline is highly debatable & figuring out organic vs non organic growth takes time.
+
+---
+
+ [Standardizing the Machine Learning Lifecycle From experimentation to production with MLflow by Databricks](https://www.linkedin.com/posts/ashishpatel2604_mlflow-by-databricks-ugcPost-7028370034502569984-wKd4/)  
+ Standardizing the Machine Learning Lifecycle From experimentation to production with MLflow by Databricks
+
+Chapters Catalogue:
+
+⚡Machine LearningLifecycle Challenges
+⚡Applying Good EngineeringPrinciples to Machine Learning
+⚡Introducing MLflow
+⚡A Closer Look at MLflowModel Registry
+⚡Making OrganizationsSuccessful with ML
+⚡Introducing the UnifiedData Analytics Platform
+⚡Standardizing the MachineLearning Lifecycle on Databricks
+⚡Getting Started
+⚡Comparison Matrix
