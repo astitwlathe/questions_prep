@@ -81,3 +81,42 @@ Chapters Catalogue:
 ⚡Standardizing the MachineLearning Lifecycle on Databricks
 ⚡Getting Started
 ⚡Comparison Matrix
+
+--- 
+
+Building models used to be the "exciting" part of data science.
+
+Nowadays, I usually consider that solved.
+
+What isn’t solved is the data:
+
+Take AutoML as an example.
+
+Modern AutoML platforms abstract and automate large parts of the supervised machine learning workflow, including:
+
+- Finding the best algorithm
+- Finding the best training parameters
+- Optimising the features (feature engineering)
+- Splitting your data into training & test sets
+- Deploy your model & monitor performance
+
+What AutoML does not solve is the following:
+
+- Finding the right use case
+- Collect the right data
+- Prepare the data
+- Define features
+
+So what does this mean?
+
+If
+ you're a 'data expert' in your organisation (hello, BI folks!), chances
+ are you can challenge even seasoned data scientists by leveraging your
+data and domain expertise combined with very basic machine learning
+skills.
+
+This could easily boost your career.
+
+And you don't have to wait for anyone's permission to build your ML portfolio.
+
+It’s up to you.
