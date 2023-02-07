@@ -32,8 +32,8 @@
 ## Career
 
 * Referral site [Link](https://refermarket.com/)
-* How to Start a Company on an H1B Visa: Top Tips for Immigrant Startup Founders [Link](https://medium.com/unshackled-ventures/how-to-start-a-company-on-an-h1b-visa-top-tips-for-immigrant-startup-founders-27bd9244de07)
 * I've built 2 of my 5 income streams past 7-figures. [Link](https://www.linkedin.com/posts/justinwelsh_ive-built-2-of-my-5-income-streams-past-activity-7028350300335824896-AAV6/)
+* The difference between amateurs and professionals [Link](https://www.linkedin.com/posts/sahilbloom_amateurs-vs-professionals-activity-7028363239180640256-2jjb/) [File](/Miscellaneous/files/amateur_professional.pdf)
 
 ## Visa and Stay
 
@@ -46,6 +46,8 @@
 * Open Avenues Stem Foundation [Link](https://www.linkedin.com/posts/bobwebber_open-avenues-global-talent-activity-7028377783206641664-MvmM/)
 * Travel Tips for F-1 Students on OPT or Planning a Change of Status to H-1B [Link](https://www.fragomen.com/insights/travel-tips-for-f-1-students-on-opt-or-planning-a-change-of-status-to-h-1b-5L9MGL8L6iHYxGG2pPMuQf.html)
 * PERM filing on time and H1B status [Link](https://webberimmigration.substack.com/p/protecting-your-h-1b-status-in-an)
+* 7 ways to become an entrepreneur as an immigrant  [Link](https://www.linkedin.com/posts/vnegandhi_7-ways-to-become-an-entrepreneur-as-an-immigrant-ugcPost-7028378932034891776-KZ6S/)
+* How to Start a Company on an H1B Visa: Top Tips for Immigrant Startup Founders [Link](https://medium.com/unshackled-ventures/how-to-start-a-company-on-an-h1b-visa-top-tips-for-immigrant-startup-founders-27bd9244de07)
 
 
 ## Finance
