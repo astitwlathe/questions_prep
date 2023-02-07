@@ -67,7 +67,7 @@ First, it's not about using a tool!
 
 ---
 
- [Standardizing the Machine Learning Lifecycle From experimentation to production with MLflow by Databricks](https://www.linkedin.com/posts/ashishpatel2604_mlflow-by-databricks-ugcPost-7028370034502569984-wKd4/)  
+ [Standardizing the Machine Learning Lifecycle From experimentation to production with MLflow by Databricks](https://www.linkedin.com/posts/ashishpatel2604_mlflow-by-databricks-ugcPost-7028370034502569984-wKd4/)[file](/ml_study/files/ml_lifecycle_databricks.pdf)  
  Standardizing the Machine Learning Lifecycle From experimentation to production with MLflow by Databricks
 
 Chapters Catalogue:
