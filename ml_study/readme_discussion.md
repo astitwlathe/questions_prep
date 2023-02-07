@@ -2,6 +2,8 @@
 
 1. [Difference between LLMs](#a1) <span id="q1"></span>
 2. [Finding clusters K means — Are You Still Using the Elbow Method?](#a2) <span id="q2"></span> 
+3. [ML model deployment](#a3) <span id="q3"></span>
+
 
 <br />
 <br />
@@ -49,3 +51,16 @@ For example, in these 5 datasets, the elbow method guesses the true number of cl
 🐍 Find the fully reproducible Python code on my GitHub: https://lnkd.in/dxvAq6Jg
 
 ---
+
+* __ML model deployment__[#](#q3) <span id="a3"></span>
+
+[Why is deploying a machine learning model so hard](https://www.linkedin.com/posts/iamabhishekchoudhary_why-is-deploying-a-machine-learning-model-activity-7027683050654187520-_8kd)   
+First, it's not about using a tool!
+⚡ Every model consumer is different
+💥 Resource utilization varies a lot & hard to predict ahead
+🕵️ Debugging live model in Production is not easy
+🔥 Data drift can be a silent killer and figuring that out automatically is a hard problem
+
+✔️ The model may have some bad code which can cost resources or unknown performance
+
+🚧 A/B testing to production timeline is highly debatable & figuring out organic vs non organic growth takes time.
