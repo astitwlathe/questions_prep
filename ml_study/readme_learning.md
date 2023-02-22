@@ -17,12 +17,17 @@
 * What is Federated Learning -- A comic by Google [Link](https://www.linkedin.com/feed/update/urn:li:activity:7021182883465711616)
 * Deep Learning Tuning Playbook [Link](https://www.linkedin.com/posts/axsaucedo_ml-machinelearning-artificialintelligence-activity-7024284835351289856-7Qtw/)
 * Point cloud registration using Fully Convolutional Geometric Features [Link](https://blog.promaton.com/point-cloud-registration-using-fully-convolutional-geometric-features-fa1c1b2627b7)
-* Efficient Methods for Deep Learning [Link](https://media.licdn.com/dms/document/C561FAQE_cikYuhSt8g/feedshare-document-pdf-analyzed/0/1675172690387)
+* Efficient Methods for Deep Learning [Link](/ml_study/files/Efficient%20Methods%20for%20Deep%20Learning%20by%20Song%20Han.pdf)
+
+## DS Tools
+
+* Lux - Suggestions for visualizing data [Link](https://www.linkedin.com/posts/khuyen-tran-1401_python-datascience-activity-7026565038618398720-b8_F)
 
 ## DS Posts
 
 * Top 6 Github Repos to Learn Data Science and Python, or copy some code, as needed :) [Link](https://www.linkedin.com/feed/update/urn:li:activity:7028314597509984256/)
 * Sketch — AI tool assistant for pandas — to get insights into your data [Link](https://www.linkedin.com/posts/khuyen-tran-1401_python-activity-7028377032388472832-LvDW/)
+* Data/AI driven product development: from video streaming to telehealth  [Link](https://www.slideshare.net/xamat/dataai-driven-product-development-from-video-streaming-to-telehealth)
 
 ## Practice Solutions
 

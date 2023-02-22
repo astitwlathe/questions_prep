@@ -5,6 +5,8 @@
 * System Design Resources [File](/distributed_systems/files/System%20Design%20Resources.jpeg)
 
 ## Resources
+* FREE Roadmap for AWS #dataengineering in 2023🎯 [Link](https://www.linkedin.com/posts/ajay026_dataengineering-bigdata-data-activity-7026398724205514752-NB28/)
+
 
 ## Reading
 

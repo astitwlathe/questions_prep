@@ -155,3 +155,6 @@ Here are my 5 pointers. You may add more.
 5. When you decide on any career path, don't fall for the salary packages or the FOMO factors. Decide with your heart, but let the mind takeover and do all the planning next. As a famous poet once said, let your desires be guided by heart, and the achievements by your mind. If you take all your decisions by your mind, you may never find your passion and may never do anything great. If you always let your heart to decide, you may not be able to deal with the repercussions. As the saying goes, when you find your passion, you will find your purpose. Heart-Mind coordination is essential for this.
 
 V Ramgopal Rao, IIT Delhi 
+
+---
+

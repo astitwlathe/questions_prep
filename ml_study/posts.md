@@ -6,7 +6,11 @@
 
 * The Transformer Family  [Link][https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/]
 * Language Models are Changing AI. We Need to Understand Them [Link](https://hai.stanford.edu/news/language-models-are-changing-ai-we-need-understand-them)
-* [D] AI Theory - Signal Processing? https://www.reddit.com/r/MachineLearning/comments/10ocalm/d_ai_theory_signal_processing
+* [D] AI Theory - Signal Processing? [Link](https://www.reddit.com/r/MachineLearning/comments/10ocalm/d_ai_theory_signal_processing)
+
+## DL Topics
+
+* Transformer models: an introduction and catalog — 2023 Edition  [Link](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 
 ## Tools
 

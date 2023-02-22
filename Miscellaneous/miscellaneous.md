@@ -30,7 +30,15 @@
 * [Most powerful life hacks I have discovered](/Miscellaneous/files/most%20powerful%20life%20hacks.pdf)
 * Open Assistant initiative to build a chat-based assistant [Link](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-community-help-activity-7027958406858592256-Q-F9/)
 * Diagram as Code in Python [Link](https://diagrams.mingrammer.com)
+* Career journey [Link](https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_in-june-2017-i-received-my-btech-degree-activity-7028257495852695552-9xcQ/)
+* Your mind is a powerful thing… We receive precisely what we hope to receive [Link](https://www.linkedin.com/posts/avnish-sharma-4697835b_whatinspiresme-motivation-linkedinforcreators-ugcPost-7027830284641316865-VHxd/)
+* Gartner Hype Cycle Explained [Link](https://www.linkedin.com/feed/update/urn:li:activity:7026270565015465984/)
+* 7 alternatives to Glassdoor you can use to get insider info on a company [Link](https://www.linkedin.com/posts/renoperry_jobsearch-careers-activity-7026187594505863168-zyZ-/)
 
+## Social
+
+* Attachment Styles and How They Affect Your Relationships [Link](https://markmanson.net/attachment-styles)
+* 8 Different Types of Handshakes & How to Manage Them [Link](/Miscellaneous/files/8%20Different%20Types%20of%20Handshakes%20%26%20How%20to%20Manage%20Them.pdf)
 
 ## Career
 
@@ -38,6 +46,12 @@
 * I've built 2 of my 5 income streams past 7-figures. [Link](https://www.linkedin.com/posts/justinwelsh_ive-built-2-of-my-5-income-streams-past-activity-7028350300335824896-AAV6/)
 * The difference between amateurs and professionals [Link](https://www.linkedin.com/posts/sahilbloom_amateurs-vs-professionals-activity-7028363239180640256-2jjb/) [File](/Miscellaneous/files/amateur_professional.pdf)
 * Boss vs leader [File](/Miscellaneous/files/boss_leader.pdf)
+* Career advice I know at 31 that I wish I knew at 18 [Link](/Miscellaneous/files/career_advice_31_18.pdf)
+* Severence Agreement - Layoff [Link](https://www.linkedin.com/posts/daniel-goodman2001_sales-layoffs-severance-activity-7026556898212507648-ETvx/)
+* How my friend became a Microsoft Product Manager in < 3 months (& got a $70,000 raise) [Link](https://www.linkedin.com/posts/abbhisekar_70000-raise-in-3-months-ugcPost-7026234196985569280-CP2I/)
+* You can develop a deep understanding of ANY industry by analyzing a few Mergers and Acquisitions within that space. [Link](https://www.linkedin.com/posts/pavan-sathiraju_you-can-develop-a-deep-understanding-of-any-activity-7026193900360921089-icNU/)
+* Who should you want as your manager? [Link](https://www.linkedin.com/posts/brandon-arvanaghi-b6875468_startups-management-career-ugcPost-7026201679788220416-RxmG/)
+* How did I build my profile to get into MIT for a PhD: Part 1 [Link](https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_how-did-i-build-my-profile-to-get-into-mit-activity-7030397847577473024-xR6Y/)
 
 ## Visa and Stay
 
@@ -55,15 +69,12 @@
 
 ## Finance
 
-* Three-fund portfolio [Link](https://www.bogleheads.org/wiki/Three-fund_portfolio)
-* Indians working on H1B — how do you manage money back home? [Link](https://www.teamblind.com/post/Indians-working-on-H1B-—-how-do-you-manage-money-back-home-rWwC0vab)
-* Take Warren Buffett's Advice: Buy Stocks With These 3 Attributes [Link](https://www.fool.com/investing/2023/01/15/take-warren-buffetts-advice-buy-stocks-with-these/)
-* Financial news and stock info [Link](www.marketbeat.com)
-* California income tax [Link](https://www.teamblind.com/post/California-income-tax-kM53P7Qr)
+* [Finance File](/Miscellaneous/finance.md)
 
 ## Interview Q&A
 
-* ETL, datalake, database comparison [Link](https://www.linkedin.com/posts/wesleyjchambers_datascience-machinelearning-analytics-activity-7028316856625065984-kvoD/?utm_source=share&utm_medium=member_desktop)
+* ETL, datalake, database comparison [Link](https://www.linkedin.com/posts/wesleyjchambers_datascience-machinelearning-analytics-activity-7028316856625065984-kvoD/)
+* Data Lakes, Data Files, Object storages & the list goes on.... [Link](https://www.linkedin.com/posts/dipankar-mazumdar_apacheiceberg-apachehudi-deltalake-activity-7028887833884987392-yMSW/)
 
 ## Posts
 
