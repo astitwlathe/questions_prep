@@ -34,6 +34,8 @@
 * Your mind is a powerful thing… We receive precisely what we hope to receive [Link](https://www.linkedin.com/posts/avnish-sharma-4697835b_whatinspiresme-motivation-linkedinforcreators-ugcPost-7027830284641316865-VHxd/)
 * Gartner Hype Cycle Explained [Link](https://www.linkedin.com/feed/update/urn:li:activity:7026270565015465984/)
 * 7 alternatives to Glassdoor you can use to get insider info on a company [Link](https://www.linkedin.com/posts/renoperry_jobsearch-careers-activity-7026187594505863168-zyZ-/)
+* 7 bad habits that destroy your brain [Link](/Miscellaneous/files/7%20bad%20habits%20that%20destry%20your%20brain.pdf)
+* This Is the Absolute Worst Food for Brain Fog, According to a Registered Dietitian [Link](https://parade.com/health/worst-food-for-brain-fog)
 
 ## Social
 
@@ -66,6 +68,8 @@
 * PERM filing on time and H1B status [Link](https://webberimmigration.substack.com/p/protecting-your-h-1b-status-in-an)
 * 7 ways to become an entrepreneur as an immigrant  [Link](https://www.linkedin.com/posts/vnegandhi_7-ways-to-become-an-entrepreneur-as-an-immigrant-ugcPost-7028378932034891776-KZ6S/)
 * How to Start a Company on an H1B Visa: Top Tips for Immigrant Startup Founders [Link](https://medium.com/unshackled-ventures/how-to-start-a-company-on-an-h1b-visa-top-tips-for-immigrant-startup-founders-27bd9244de07)
+* Using EAD/AP with H-1B status  [Link](https://cbkimmigration.com/employment-based-immigration/using-eadap-with-h-1b-status/)
+* How long does it take from PERM to Green Card, and difference between NIW and PERM Labor Certification?  [Link](https://www.immigration.com/faq/us-green-card/form-i-140#35297)
 
 ## Finance
 

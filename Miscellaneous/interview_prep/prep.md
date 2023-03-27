@@ -24,6 +24,7 @@
 * google rejection L6 on system design [Link](https://www.teamblind.com/post/google-rejection-L6-on-system-design-uYLMNadb)
 * 10 repositories from GitHub that will transform the way you approach technical interviews (including what to build) [Link](https://www.linkedin.com/posts/ansh-_javascript-faang-interview-activity-7027861618067681280-Nhcs/)
 * Data Engineer Learning 🔥🔥🔥 [Link](https://www.linkedin.com/posts/activity-7030109540264140801-iIx7)
+* How does Google interview candidates for Engineering Director-level positions? [Link](https://www.quora.com/How-does-Google-interview-candidates-for-Engineering-Director-level-positions)
 
 ## Open Source
 

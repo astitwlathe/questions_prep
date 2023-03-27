@@ -5,6 +5,7 @@
 * Take Warren Buffett's Advice: Buy Stocks With These 3 Attributes [Link](https://www.fool.com/investing/2023/01/15/take-warren-buffetts-advice-buy-stocks-with-these/)
 * Financial news and stock info [Link](www.marketbeat.com)
 * California income tax [Link](https://www.teamblind.com/post/California-income-tax-kM53P7Qr)
+* How to research your next investment [Link](https://www.ft.com/content/b9a7dbb8-e5ed-447e-87ba-6cb65d10b5ba)
 
 ## Tips
 

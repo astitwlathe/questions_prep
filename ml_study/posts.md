@@ -45,3 +45,9 @@
 * Inferential Statistics: Techniques and Types of Calculation [Link](https://www.linkedin.com/feed/update/urn:li:activity:7026614397582090240/)
 * A Friendly Step-By-Step Guide To Supervised Machine Learning [Link](https://ai4bi.beehiiv.com/p/supervised-machine-learning-guide)
 * Power BI in Jupyter notebooks! [Link](https://www.linkedin.com/posts/mengyaowang11_datascience-python-powerbi-activity-7028339013463756801-cpU2/)
+
+## General
+
+* You Are Not a Parrot And a chatbot is not a human. And a linguist named Emily M. Bender is very worried what will happen when we forget this. [Link](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html)
+* How to Become Data Scientist – A Complete Roadmap [Link](https://www.geeksforgeeks.org/how-to-become-data-scientist-a-complete-roadmap/)
+* All the Math You Need to Know in Artificial Intelligence [Link](https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/amp/)
