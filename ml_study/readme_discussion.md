@@ -4,6 +4,9 @@
 2. [Finding clusters K means — Are You Still Using the Elbow Method?](#a2) <span id="q2"></span> 
 3. [ML model deployment](#a3) <span id="q3"></span>
 4. [ChatGPT era - reinvent yourself](#a4) <span id="q4"></span>
+5. [Maths for ML/DS/DL/AI](#a5) <span id="q5"></span>
+6. [Transformer Study and Tutorials](#a6) <span id="q6"></span>
+
 
 
 <br />
@@ -156,5 +159,27 @@ Here are my 5 pointers. You may add more.
 
 V Ramgopal Rao, IIT Delhi 
 
+[Will prompting the LLM to review it's own answer be any helpful to reduce chances of hallucinations?](https://www.reddit.com/r/MachineLearning/comments/123b4f0/d_will_prompting_the_llm_to_review_its_own_answer/)
+
 ---
 
+* __Maths for ML/DS/DL/AI__[#](#q5) <span id="a5"></span>
+
+* [What's the most advanced mathematics you have used in your job as a data scientist?](https://www.quora.com/Whats-the-most-advanced-mathematics-you-have-used-in-your-job-as-a-data-scientist)
+
+__Books__
+*[Readme Books](/ml_study/books/review.md#ml_books)
+
+
+---
+__Transformer Study and Tutorials__
+* [Resources for Understanding The Original Transformer Paper](https://www.reddit.com/r/MachineLearning/comments/pkedi4/d_resources_for_understanding_the_original/)
+* [What is a good beginner tutorial on transformers and how they work with question answering models from hugging face?](https://www.reddit.com/r/learnmachinelearning/comments/sw1kj9/what_is_a_good_beginner_tutorial_on_transformers/)
+* [ChatGPT and Transformers study] (https://www.reddit.com/r/learnmachinelearning/comments/123fcrq/i_tried_to_get_a_grasp_of_llms_using_chatgpt_im/):
+Linear Algebra by Friedberg Insel and Spence
+Differential and Integral Calculus by Richard Courant
+Elements of Statistical Learning
+Those three on theory are a good place to start for foundation.
+What is ChatGPT Doing by Stephen Wolfram.
+Natural Language Processing with Transformers by Tunstall, Werra and Wolf.
+Any of the Grokking series.

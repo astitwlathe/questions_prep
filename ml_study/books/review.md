@@ -22,4 +22,11 @@
 * [Stastical Machine Learning, Yiqiao YIN Columbia University](/ml_study/books/statistical_machine_learning%20%5BYiqiao%20Yin%5D.pdf)
 * [Fundamentals of Deep Learning - Designing Next-Generation Machine Intelligence Algorithms (2022)](/ml_study/books/Fundamentals%20of%20Deep%20Learning%20-%20Designing%20Next-Generation%20Machine%20Intelligence%20Algorithms%20(2022)%20%5BNithin%20Buduma%2C%20Nikhil%20Buduma%2C%20Joe%20Papa%5D.pdf)
 * [The Hundred-Page Machine Learning Book (2019)](/ml_study/books/The%20Hundred-Page%20Machine%20Learning%20Book%20(2019)%20%5BAndriy%20Burkov%5D.pdf)
+
+* [Machine Learning Engineering (2020)](/ml_study/books/Machine%20Learning%20Engineering%20(2020)%20%5BAndriy%20Burkov%5D.pdf)
+
+## Math Books
+* [Mathematics for Machine Learning](/ml_study/books/Mathematics%20for%20Machine%20Learning%20(2020).pdf)
 * [Practical Linear Algebra for Data Science - From Core Concepts to Applications Using Python (2022)](/ml_study/books/Data%20Science%20Interview%20Questions%20(30%20days%20of%20Interview%20Preparation).pdf)
+* [All the Math You Missed (But Need to Know for Graduate School) (2021)](/ml_study/books/All%20the%20Math%20You%20Missed%20(But%20Need%20to%20Know%20for%20Graduate%20School)%2C%20Second%20Edition%20%5B2nd%20Ed%5D%20(2021)%20%5BThomas%20A.%20Garrity%5D.pdf)
+

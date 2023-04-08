@@ -11,6 +11,7 @@
 ## DL Topics
 
 * Transformer models: an introduction and catalog — 2023 Edition  [Link](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
+* Transformer Study and Tutorials (Readme Discussion) [Link](/ml_study/readme_discussion.md#a6)
 
 ## Tools
 
@@ -19,12 +20,17 @@
 * Pandas library fit [Link](https://www.linkedin.com/posts/sarah-floris_spark-activity-7020041871628402688-PW3n/)
 * HyperImpute - A library for NaNs and nulls, i.e., data imputation. [Link](https://github.com/vanderschaarlab/hyperimpute)
 * The State of Computer Vision at Hugging Face [Link](https://huggingface.co/blog/cv_state)
+* AI and ML Dev Tools You’ll Wish You’d Discovered Earlier [Link](https://jewel-marscapone-8fd.notion.site/a24780ea7d10451ea4fee4b6205c07ee)
+* A 'ChatGPT Interface' to Explore Your ML Datasets -> app.activeloop.ai [Link](https://www.reddit.com/r/MachineLearning/comments/121t6tp/p_a_chatgpt_interface_to_explore_your_ml_datasets/)
+* [D] Title: Best tools and frameworks for working with million-billion image datasets? [Link](https://www.reddit.com/r/MachineLearning/comments/12285x7/d_title_best_tools_and_frameworks_for_working/)
 
 ## Tips
 
 * How to go from theory to practical [Link](https://www.linkedin.com/posts/jay-feng-ab66b049_datascience-business-projects-activity-7017160941679108096-_y5i)
 * Books to study [Links](/ml_study/books/review.md)
 * Model Evaluation, Selection, Algo Selection, (Sebastian Raschka) [Link](https://www.linkedin.com/posts/mark-tenenholtz-173a3a122_you-should-always-work-on-improving-your-activity-7020389129825787904-1EDP)
+* [R] Analysis of 200+ ML competitions in 2022 [Link](https://www.reddit.com/r/MachineLearning/comments/11kzkla/r_analysis_of_200_ml_competitions_in_2022/)
+* Favorite tips for staying up to date with AI/Deep Learning research and news? [Link](https://www.reddit.com/r/MachineLearning/comments/122r3sr/d_favorite_tips_for_staying_up_to_date_with/)
 
 ## Applications
 
@@ -45,6 +51,7 @@
 * Inferential Statistics: Techniques and Types of Calculation [Link](https://www.linkedin.com/feed/update/urn:li:activity:7026614397582090240/)
 * A Friendly Step-By-Step Guide To Supervised Machine Learning [Link](https://ai4bi.beehiiv.com/p/supervised-machine-learning-guide)
 * Power BI in Jupyter notebooks! [Link](https://www.linkedin.com/posts/mengyaowang11_datascience-python-powerbi-activity-7028339013463756801-cpU2/)
+* Why do many ML papers choose to reimplement PyTorch transformer modules? [Link](https://www.reddit.com/r/MachineLearning/comments/117h4rg/d_why_do_many_ml_papers_choose_to_reimplement/)
 
 ## General
 

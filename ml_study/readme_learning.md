@@ -18,6 +18,8 @@
 * Deep Learning Tuning Playbook [Link](https://www.linkedin.com/posts/axsaucedo_ml-machinelearning-artificialintelligence-activity-7024284835351289856-7Qtw/)
 * Point cloud registration using Fully Convolutional Geometric Features [Link](https://blog.promaton.com/point-cloud-registration-using-fully-convolutional-geometric-features-fa1c1b2627b7)
 * Efficient Methods for Deep Learning [Link](/ml_study/files/Efficient%20Methods%20for%20Deep%20Learning%20by%20Song%20Han.pdf)
+* DAIR.AI for ML learning [Link](https://dair.ai)
+* 
 
 ## DS Tools
 
