@@ -172,7 +172,7 @@ __Books__
 
 
 ---
-__Transformer Study and Tutorials__
+__Transformer Study and Tutorials__ (#q6) <span id="a6"></span>
 * [Resources for Understanding The Original Transformer Paper](https://www.reddit.com/r/MachineLearning/comments/pkedi4/d_resources_for_understanding_the_original/)
 * [What is a good beginner tutorial on transformers and how they work with question answering models from hugging face?](https://www.reddit.com/r/learnmachinelearning/comments/sw1kj9/what_is_a_good_beginner_tutorial_on_transformers/)
 * [ChatGPT and Transformers study] (https://www.reddit.com/r/learnmachinelearning/comments/123fcrq/i_tried_to_get_a_grasp_of_llms_using_chatgpt_im/):
