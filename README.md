@@ -15,6 +15,8 @@ This repo keeps all the works and preps for interviews, subject matter studies i
 * Books to read for self improvement [Link](https://www.linkedin.com/posts/vineet-chirania_startup-innovation-sales-activity-7017810660335988736-16d3)
 * Open Source Software Development, Linux and Git Specialization [Link](https://www.coursera.org/specializations/oss-development-linux-git)
 * Resume Tips [Link](https://www.linkedin.com/posts/alexandersmith92_my-resume-has-landed-me-interviews-at-facebook-activity-7020153888146153472-lSV1)
+* My experience with EB1-A - merit-based green card [Link 1](https://www.linkedin.com/pulse/my-experience-eb1-a-merit-based-green-card-united-states-agrawal/) [Link 2](https://greencardapply.com/rfe/request-for-evidence-eb1a.htm)
+
 
 ## ChatGPT
 

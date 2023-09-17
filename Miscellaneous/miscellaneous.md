@@ -70,6 +70,7 @@
 * How to Start a Company on an H1B Visa: Top Tips for Immigrant Startup Founders [Link](https://medium.com/unshackled-ventures/how-to-start-a-company-on-an-h1b-visa-top-tips-for-immigrant-startup-founders-27bd9244de07)
 * Using EAD/AP with H-1B status  [Link](https://cbkimmigration.com/employment-based-immigration/using-eadap-with-h-1b-status/)
 * How long does it take from PERM to Green Card, and difference between NIW and PERM Labor Certification?  [Link](https://www.immigration.com/faq/us-green-card/form-i-140#35297)
+* Applying for the EB-1B Green Card with an Industry Job [Link](https://medium.com/@anirban.das1981/applying-for-the-eb-1b-green-card-with-an-industry-job-29a37f5c9a8e)
 
 ## Finance
 

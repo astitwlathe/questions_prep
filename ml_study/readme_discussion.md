@@ -1,12 +1,16 @@
 ## Discussion Questions
 
-1. [Difference between LLMs](#a1) <span id="q1"></span>
+1. [LLMs and their usage](#a1) <span id="q1"></span>
 2. [Finding clusters K means — Are You Still Using the Elbow Method?](#a2) <span id="q2"></span> 
 3. [ML model deployment](#a3) <span id="q3"></span>
 4. [ChatGPT era - reinvent yourself](#a4) <span id="q4"></span>
 5. [Maths for ML/DS/DL/AI](#a5) <span id="q5"></span>
 6. [Transformer Study and Tutorials](#a6) <span id="q6"></span>
-
+7. [3D object study, representation, deep learning](#a7) <span id="q7"></span>
+8. [Numpy](#a8)<span id="q8"></span>
+9. [GPUs](#a9)<span id="q9"></span>
+10. [Management](#a10)<span id="q10"></span>
+11. [Deep Learning Study](#a11)<span id="q11"></span>
 
 
 <br />
@@ -33,6 +37,10 @@ What are the effect of all the transformations vs the scale? Would the models be
 There are truck loads of studies and articles on how the stated innovations reduce the number of parameters needed to actually outperform larger models (As one example). With simple search you can find them on your own in Arxiv  ;)
 
 For example, you will see how Alexa TM (Teacher Model) with a 20B parameter outperforms GPT3 which is a 175B model.
+
+* __Prompt Guide__
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+
 
 ---
 
@@ -167,6 +175,9 @@ V Ramgopal Rao, IIT Delhi
 
 * [What's the most advanced mathematics you have used in your job as a data scientist?](https://www.quora.com/Whats-the-most-advanced-mathematics-you-have-used-in-your-job-as-a-data-scientist)
 
+__Videos__
+* [Greg Yang | Large N Limits: Random Matrices & Neural Networks | The Cartesian Cafe w/ Timothy Nguyen](https://www.youtube.com/watch?v=1aXOXHA7Jcw)
+
 __Books__
 *[Readme Books](/ml_study/books/review.md#ml_books)
 
@@ -175,7 +186,7 @@ __Books__
 __Transformer Study and Tutorials__ [#](#q6) <span id="a6"></span>
 * [Resources for Understanding The Original Transformer Paper](https://www.reddit.com/r/MachineLearning/comments/pkedi4/d_resources_for_understanding_the_original/)
 * [What is a good beginner tutorial on transformers and how they work with question answering models from hugging face?](https://www.reddit.com/r/learnmachinelearning/comments/sw1kj9/what_is_a_good_beginner_tutorial_on_transformers/)
-* [ChatGPT and Transformers study] (https://www.reddit.com/r/learnmachinelearning/comments/123fcrq/i_tried_to_get_a_grasp_of_llms_using_chatgpt_im/):
+* [ChatGPT and Transformers study](https://www.reddit.com/r/learnmachinelearning/comments/123fcrq/i_tried_to_get_a_grasp_of_llms_using_chatgpt_im/):
 Linear Algebra by Friedberg Insel and Spence
 Differential and Integral Calculus by Richard Courant
 Elements of Statistical Learning
@@ -183,3 +194,33 @@ Those three on theory are a good place to start for foundation.
 What is ChatGPT Doing by Stephen Wolfram.
 Natural Language Processing with Transformers by Tunstall, Werra and Wolf.
 Any of the Grokking series.
+* [Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings](https://www.youtube.com/watch?v=dichIcUZfOw&ab_channel=HeduAI)
+* [Transformers](https://www.youtube.com/playlist?list=PLQWPycXvOsB-2rylhr9ltoWuvybuGKBHD)
+* [Some Intuition on Attention and the Transformer](https://eugeneyan.com/writing/attention/)
+* [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+
+---
+__3D object study, representation, deep learning__[#](#q7) <span id="a7"></span>
+* 3D Object description: [3D Object Classification and Segmentation with MeshCNN and PyTorch](https://towardsdatascience.com/3d-object-classification-and-segmentation-with-meshcnn-and-pytorch-3bb7c6690302) 
+
+---
+__Numpy__[#](#q8)<span id="a8"></span>
+* [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+* [How RGB and Grayscale Images Are Represented in NumPy Arrays](https://towardsdatascience.com/exploring-the-mnist-digits-dataset-7ff62631766a)
+
+---
+__GPUs__[#](#q9) <span id="a9"></span>
+* [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/#is-there-really-a-bottleneck)
+* [Training LLMs with AMD MI250 GPUs and MosaicML](  https://www.mosaicml.com/blog/amd-mi250)
+
+
+---
+__Management__[#](#q10) <span id="a10"></span>
+* [An Elegant Puzzle book](https://www.linkedin.com/posts/axsaucedo_ml-machinelearning-artificialintelligence-activity-7102900434490548224-9UA0?utm_source=share&utm_medium=member_desktop)
+
+
+---
+__Deep Learning Study__(#q11)<span id="a11"></span>
+* [Websites where you can find popular ML/DL research papers](https://medium.com/mlearning-ai/websites-where-you-can-find-popular-ml-dl-research-papers-dcf075af4cbb)
+
+* [Learn To Implement Papers: Beginner’s Guide](https://medium.com/geekculture/learn-to-implement-papers-beginners-guide-bb1c8bd61f08)

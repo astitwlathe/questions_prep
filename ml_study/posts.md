@@ -52,6 +52,7 @@
 * A Friendly Step-By-Step Guide To Supervised Machine Learning [Link](https://ai4bi.beehiiv.com/p/supervised-machine-learning-guide)
 * Power BI in Jupyter notebooks! [Link](https://www.linkedin.com/posts/mengyaowang11_datascience-python-powerbi-activity-7028339013463756801-cpU2/)
 * Why do many ML papers choose to reimplement PyTorch transformer modules? [Link](https://www.reddit.com/r/MachineLearning/comments/117h4rg/d_why_do_many_ml_papers_choose_to_reimplement/)
+* Why You Need to Stop Using Bulky Neural Network Models [Link](https://towardsdatascience.com/why-you-need-to-stop-using-bulky-neural-network-models-d43681d9916f)
 
 ## General
 
